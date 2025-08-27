@@ -16,7 +16,7 @@ This program runs on the terminal and allows you to multiply two matrices easily
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/matrix-multiplier.git
+   git clone https://github.com/Ratty-02/matrix-multiplier.git
    cd matrix-multiplier
 
 ##Output
